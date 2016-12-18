@@ -1,0 +1,145 @@
+/* Buttons */
+
+.animated-button-one:after {
+    background: #ff6900 !important;
+}
+.animated-button-two:before {
+    background: #ff6900;
+}
+.wt-button:hover,
+.dark-button:hover,
+.wt-button:focus,
+.dark-button:focus {
+    border-color: #ff6900;
+    background-color: #ff6900;
+}
+/* Navbar */
+
+.nav li.current a,
+.nav li a:hover {
+    color: #ff6900 !important;
+}
+.nav li.current:after {
+    background: #ff6900;
+}
+/* Slider */
+
+.hero .owl-theme .owl-controls .owl-page.active span,
+.hero .owl-theme .owl-controls.clickable .owl-page:hover span {
+    background: #ff6900;
+}
+.zoomin-slider .vegas-timer-progress {
+    background: #ff6900;
+}
+.coloured,
+.typed-cursor {
+    color: #ff6900;
+}
+/* Section title */
+
+.title-line {
+    background-color: #ff6900;
+}
+/* Features */
+
+.feature-column h4,
+.feature-column:hover i {
+    color: #ff6900;
+}
+/* Tabs */
+
+.tab-links li.active {
+    background: #ff6900;
+}
+.carousel-tabs .item a:hover i,
+.carousel-tabs li.item.active i,
+.tab-description h4,
+.feature-tab-description h4 {
+    color: #ff6900;
+}
+/* Work Filter */
+
+.filters a:hover,
+.filter.active,
+.filter.selected {
+    color: #ff6900;
+}
+/* Social Share */
+
+.social-share a,
+.footer-social ul li a:hover {
+    color: #ff6900;
+}
+.social-share a:hover {
+    border-color: #ff6900;
+    background: #ff6900;
+}
+/* Testimonials */
+
+.testimonial-body h5 {
+    color: #ff6900;
+}
+.testimonials .owl-theme .owl-controls .owl-page.active span,
+.testimonials .owl-theme .owl-controls.clickable .owl-page:hover span {
+    background: #ff6900;
+}
+/* Pricing Table */
+
+.dark-table .table-price {
+    background-color: #ff6900;
+}
+/* Facts */
+
+.facts-counter span {
+    color: #ff6900;
+}
+/* Team */
+
+.member:hover .team_overlay:before {
+    border-color: #ff6900;
+}
+.member:hover h5,
+.member-social a:hover i {
+    color: #ff6900;
+}
+/* FAQS */
+
+.answer h5 {
+    background: #ff6900;
+}
+/* Skills Progress Bars */
+
+.skill-progress-bar > span {
+    background-color: #ff6900;
+}
+/* Forms */
+
+.form-group input:focus,
+.form-group textarea:focus,
+.form-group select:focus {
+    border-bottom-color: #ff6900 !important;
+}
+/* Contact Info */
+
+.contact-info i,
+.close:hover span {
+    color: #ff6900;
+}
+/* features-carousel */
+
+.features-carousel .item.active:before {
+    border-bottom-color: #ff6900;
+}
+/* Back To Top */
+
+#back-top a:hover {
+    background: #ff6900;
+}
+/* Color Switcher */
+
+#color-switcher h2 {
+    background-color: #ff6900;
+}
+#color-switcher i {
+    color: #ff6900;
+}
